@@ -1,0 +1,4 @@
+dist: jammy
+language: shell 
+script: "Testing the travis-worker." 
+install: skip 
