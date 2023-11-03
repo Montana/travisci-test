@@ -1,4 +1,4 @@
 dist: jammy
 language: shell 
-script: "Testing the travis-worker." 
+script: skip
 install: skip 
